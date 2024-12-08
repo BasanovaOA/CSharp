@@ -1,0 +1,66 @@
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/appsettings.json
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/LoadTestWebApi
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/LoadTestWebApi.deps.json
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/LoadTestWebApi.runtimeconfig.json
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/LoadTestWebApi.dll
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/LoadTestWebApi.pdb
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/LoadTestWebApi.csproj.AssemblyReference.cache
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/LoadTestWebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/LoadTestWebApi.AssemblyInfoInputs.cache
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/LoadTestWebApi.AssemblyInfo.cs
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/LoadTestWebApi.csproj.CoreCompileInputs.cache
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/LoadTestWebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/LoadTestWebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/staticwebassets/msbuild.LoadTestWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/staticwebassets/msbuild.build.LoadTestWebApi.props
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.LoadTestWebApi.props
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.LoadTestWebApi.props
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/scopedcss/bundle/LoadTestWebApi.styles.css
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/LoadTestWebApi.csproj.CopyComplete
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/LoadTestWebApi.dll
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/refint/LoadTestWebApi.dll
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/LoadTestWebApi.pdb
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/LoadTestWebApi.genruntimeconfig.cache
+/Users/konstantinmosalev/Downloads/CSharp/LoadTestWebApi/obj/Debug/net8.0/ref/LoadTestWebApi.dll
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\LoadTestWebApi.exe
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\LoadTestWebApi.deps.json
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\LoadTestWebApi.runtimeconfig.json
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\LoadTestWebApi.dll
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\LoadTestWebApi.pdb
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\LoadTestWebApi.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\LoadTestWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\LoadTestWebApi.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\LoadTestWebApi.AssemblyInfo.cs
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\LoadTestWebApi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\LoadTestWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\LoadTestWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\staticwebassets\msbuild.LoadTestWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.LoadTestWebApi.props
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoadTestWebApi.props
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoadTestWebApi.props
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\scopedcss\bundle\LoadTestWebApi.styles.css
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\LoadTest.F5A8188A.Up2Date
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\LoadTestWebApi.dll
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\refint\LoadTestWebApi.dll
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\LoadTestWebApi.pdb
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\LoadTestWebApi.genruntimeconfig.cache
+C:\Users\admin\Downloads\CSharp 2\CSharp\LoadTestWebApi\obj\Debug\net8.0\ref\LoadTestWebApi.dll

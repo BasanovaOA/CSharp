@@ -1,0 +1,99 @@
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/appsettings.Development.json
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/appsettings.json
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/WebApplication1.exe
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/WebApplication1.deps.json
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/WebApplication1.runtimeconfig.json
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/WebApplication1.dll
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/WebApplication1.pdb
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/Microsoft.OpenApi.dll
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.csproj.AssemblyReference.cache
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.AssemblyInfoInputs.cache
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.AssemblyInfo.cs
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.csproj.CoreCompileInputs.cache
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets/msbuild.build.WebApplication1.props
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets.pack.json
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets.build.json
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets.development.json
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/scopedcss/bundle/WebApplication1.styles.css
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.csproj.CopyComplete
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.dll
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/refint/WebApplication1.dll
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.pdb
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.genruntimeconfig.cache
+c:/RABOTAZABOTA/programms/CSharp/WebApplication1/obj/Debug/net7.0/ref/WebApplication1.dll
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/appsettings.Development.json
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/appsettings.json
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/WebApplication1
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/WebApplication1.deps.json
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/WebApplication1.runtimeconfig.json
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/WebApplication1.dll
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/WebApplication1.pdb
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.csproj.AssemblyReference.cache
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.AssemblyInfoInputs.cache
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.AssemblyInfo.cs
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.csproj.CoreCompileInputs.cache
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets.build.json
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets.development.json
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets/msbuild.build.WebApplication1.props
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/scopedcss/bundle/WebApplication1.styles.css
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.csproj.CopyComplete
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.dll
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/refint/WebApplication1.dll
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.pdb
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/WebApplication1.genruntimeconfig.cache
+/Users/konstantinmosalev/Downloads/CSharp/WebApplication1/obj/Debug/net7.0/ref/WebApplication1.dll
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\appsettings.json
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\WebApplication1.exe
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\WebApplication1.deps.json
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\WebApplication1.runtimeconfig.json
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\WebApplication1.dll
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\WebApplication1.pdb
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.AssemblyReference.cache
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfoInputs.cache
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\WebApplication1.AssemblyInfo.cs
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\WebApplication1.csproj.CoreCompileInputs.cache
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication1.props
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\WebApplication1.styles.css
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\WebApplication1.dll
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\refint\WebApplication1.dll
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\WebApplication1.pdb
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\WebApplication1.genruntimeconfig.cache
+c:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\ref\WebApplication1.dll
+C:\Users\admin\Downloads\CSharp 2\CSharp\WebApplication1\obj\Debug\net7.0\WebAppli.7D14BD69.Up2Date

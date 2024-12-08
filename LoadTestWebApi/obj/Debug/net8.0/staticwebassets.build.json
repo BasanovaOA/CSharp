@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TWMfSuZB9h0LUu2JnSHB/1Kb41ua291b3pgzWC6kWGc=",
+  "Source": "LoadTestWebApi",
+  "BasePath": "_content/LoadTestWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
